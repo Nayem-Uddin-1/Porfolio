@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+
+.container{
+ max-width: 1300px;
+ margin:auto;
+ border:1px solid black;
+}
+
+
+.bg-color{
+
+    background-color: #1f232d;
+
+}
+ 
